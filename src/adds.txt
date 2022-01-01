@@ -1,0 +1,58 @@
+students - boosts amount that a click is worth by one, cost: 
+instructors - add one point every 2 seconds, cost: 
+great instructors: boosts amount that students add by times 2, cost:
+
+forum: adds 100 clicks every 2 seconds, cost:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+separeate areas:
+
+        { 
+          name:"Rookie", 
+          func: function(){
+            
+          }, 
+          level:1 },
+        {
+          name:"Outlaw",
+          func:function(){
+            
+          },
+          level:2
+        },
+        {
+          name:"Renegade",
+          func:function(){
+            
+          },
+          level:3
+        },
+        {
+          name:"Darth",
+          func:function(){
+            
+          },
+          level:4
+        },
+        {
+          name:"Outlaw",
+          func:function(){
+            
+          },
+          level:2
+        }
+
+
+
